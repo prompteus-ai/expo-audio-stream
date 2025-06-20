@@ -2060,9 +2060,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mykin-ai/expo-audio-stream@workspace:.":
+"@prompteus-ai/expo-audio-stream@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@mykin-ai/expo-audio-stream@workspace:."
+  resolution: "@prompteus-ai/expo-audio-stream@workspace:."
   dependencies:
     "@types/react": "npm:^18.0.25"
     expo-module-scripts: "npm:^3.4.1"

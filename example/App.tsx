@@ -1,12 +1,12 @@
 import { Button, Platform, StyleSheet, Text, View } from "react-native";
-import { ExpoPlayAudioStream } from "@mykin-ai/expo-audio-stream";
+import { ExpoPlayAudioStream } from "@prompteus-ai/expo-audio-stream";
 import { useEffect, useRef } from "react";
 import { sampleA } from "./samples/sample-a";
 import { sampleB } from "./samples/sample-b";
 import { sampleC } from "./samples/sample-c";
 import {
   AudioDataEvent,
-} from "@mykin-ai/expo-audio-stream/types";
+} from "@prompteus-ai/expo-audio-stream/types";
 import { Subscription } from "expo-modules-core";
 import { Audio } from 'expo-av';
 

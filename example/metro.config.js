@@ -19,7 +19,7 @@ config.resolver.nodeModulesPaths = [
 ];
 
 config.resolver.extraNodeModules = {
-  "@mykin-ai/expo-audio-stream": "..",
+  "@prompteus-ai/expo-audio-stream": "..",
 };
 
 config.watchFolders = [path.resolve(__dirname, "..")];
