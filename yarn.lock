@@ -2060,20 +2060,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@prompteus-ai/expo-audio-stream@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@prompteus-ai/expo-audio-stream@workspace:."
-  dependencies:
-    "@types/react": "npm:^18.0.25"
-    expo-module-scripts: "npm:^3.4.1"
-    expo-modules-core: "npm:^1.11.12"
-  peerDependencies:
-    expo: "*"
-    react: "*"
-    react-native: "*"
-  languageName: unknown
-  linkType: soft
-
 "@nicolo-ribaudo/chokidar-2@npm:2.1.8-no-fsevents.3":
   version: 2.1.8-no-fsevents.3
   resolution: "@nicolo-ribaudo/chokidar-2@npm:2.1.8-no-fsevents.3"
@@ -2143,6 +2129,20 @@ __metadata:
   checksum: 10c0/3f7536bc7f57320ab2cf96f8973664bef624710c403357429fbf680a5c3b4843c1dbd389bb43daa6b1f6f1f007bb082f5abcb76bb2b5dc9f421647743b71d3d8
   languageName: node
   linkType: hard
+
+"@prompteus-ai/expo-audio-stream@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@prompteus-ai/expo-audio-stream@workspace:."
+  dependencies:
+    "@types/react": "npm:^18.0.25"
+    expo-module-scripts: "npm:^3.4.1"
+    expo-modules-core: "npm:^1.11.12"
+  peerDependencies:
+    expo: "*"
+    react: "*"
+    react-native: "*"
+  languageName: unknown
+  linkType: soft
 
 "@react-native/babel-plugin-codegen@npm:0.73.4":
   version: 0.73.4
