@@ -1,5 +1,5 @@
 {
-  "name": "@mykin-ai/expo-audio-stream",
+  "name": "@prompteus-ai/expo-audio-stream",
   "version": "0.2.26",
   "description": "Expo Play Audio Stream module",
   "main": "build/index.js",
@@ -22,13 +22,13 @@
     "expo-play-audio-stream",
     "ExpoPlayAudioStream"
   ],
-  "repository": "https://github.com/mykin-ai/expo-audio-stream",
+  "repository": "https://github.com/prompteus-ai/expo-audio-stream",
   "bugs": {
-    "url": "https://github.com/mykin-ai/expo-audio-stream/issues"
+    "url": "https://github.com/prompteus-ai/expo-audio-stream/issues"
   },
   "author": "pax <nzpopa@users.noreply.github.com> (https://github.com/hyphen-id)",
   "license": "MIT",
-  "homepage": "https://github.com/mykin-ai/expo-audio-stream#readme",
+  "homepage": "https://github.com/prompteus-ai/expo-audio-stream#readme",
   "devDependencies": {
     "@types/react": "^18.0.25",
     "expo-module-scripts": "^3.4.1",
